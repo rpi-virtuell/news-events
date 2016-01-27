@@ -1,0 +1,14 @@
+<li class="clearfix"><div class="single-article clearfix following-post">
+  <figure><a href="#_EVENTURL" title="#_EVENTNAME">
+  <img width="130" src="#_EVENTIMAGEURL" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" /></a></figure>                  
+	 <div class="article-content">
+		 <div class="above-entry-meta">
+				<span class="cat-links">#_EVENTCATEGORIES</span>
+		 </div>
+		 
+		 <h3 class="entry-title">#_EVENTLINK</h3>
+		 <div class="below-entry-meta">
+			<span class="posted-on"> #_EVENTDATES</span>
+		 </div>	 
+   </div>
+​</div></li>
