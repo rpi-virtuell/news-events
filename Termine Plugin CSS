@@ -1,0 +1,13 @@
+/** Termine formatieren **/
+.widget_em_widget.widget_featured_posts .following-post {
+	width: 100%;
+	float: none;
+}
+​
+.widget_em_widget.widget_featured_posts .widget-title span {
+	background-color: #C93C3C;
+}
+​
+.widget_em_widget.widget_featured_posts h3 {
+	border-bottom-color: #C93C3C;
+}
