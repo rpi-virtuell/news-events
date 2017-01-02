@@ -1,0 +1,50 @@
+#em_widget-3 .following-post,#em_widget-5 .following-post{
+width:100% !important;
+float:none;
+}
+
+#colormag_featured_posts_vertical_widget-18 .single-article.clearfix a img {
+    display: none;
+}
+
+div.focuswp-slider .focuswp-slides .focuswp-head {
+          padding-left:0;
+}
+
+div.focuswp-slider .focuswp-slides .focuswp-headleft {
+    padding-left: 10px;
+}
+
+
+.tg-second-footer-widget, .tg-third-footer-widget {
+    width: 50.303%;
+}
+
+.widget.cat-post-widget .isc_image_list_box,
+.widget.cat-post-widget .isc-source-text {
+	display:none;
+}
+.rw-more-widget-button {
+    width: 50px !important;
+}
+
+.rw-more-widget-footer-button > button {
+    border: 0;
+    background: none;
+    color: black;
+    margin: -30px 0 0 0;
+    padding: 0;
+}
+.widget_featured_posts .following-post .article-content .entry-title{
+    font-size:15px;
+}
+.widget .below-entry-meta span{
+   font-size:12px;
+}
+
+.widget_featured_posts .following-post img {
+    margin-bottom: 0;
+    max-height: 100px;
+    max-width: 100px;
+    overflow: hidden;
+}
