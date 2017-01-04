@@ -48,3 +48,9 @@ div.focuswp-slider .focuswp-slides .focuswp-headleft {
     max-width: 100px;
     overflow: hidden;
 }
+p.isc-source-text ,.isc_image_list_box {
+    font-size: 72%!important;
+}
+.isc_image_list_title{
+    font-size: 100%!important;
+}
